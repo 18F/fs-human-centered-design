@@ -19,7 +19,7 @@ As we approach this project together, we value:
 ## Approach
 
 
-### 1. Focus on learning and practicing four key best practices
+### 1. Focus on learning and practicing four key best practices.
 We'll focus on adopting four particular practices of human centered design.
 
 <img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/modules.png"/>
@@ -40,7 +40,7 @@ Vision-setting isn't a distinct method, but a goal supported by several other co
 
 
 
-### 2. Split the project into month-long *modules* for each best practice.:
+### 2. Split the project into month-long *modules* for each best practice.
 We'll dedicate a module of the project to each best practice and spend about a month per module. Each module will include:
 
 <img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/components.png"/>
