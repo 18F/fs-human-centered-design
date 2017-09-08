@@ -16,7 +16,9 @@ As we approach this project together, we value:
 - Learning about users over generating deliverables. Although we will generate documentation, the purpose of our work is teaching people to learn about their system’s users, not generate documentations.
 - Working in quick iterations, even on research and design. Although we won’t be building software, we’ll take our cue from agile development and continue to do our work in iterations or “sprints.” Each sprint should deliver value and build upon the previous sprint.
 
-## Project approach
+## Approach
+
+<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/modules.png"/>
 
 ### 1. Focus on learning and practicing four key best practices
 We'll focus on adopting four particular practices of human centered design.
@@ -33,10 +35,16 @@ Journey mapping involves creating a sequential diagram of the systems, people an
 #### D. Products support a vision that's articulated in terms of solving user needs and measurable business goals.
 Vision-setting isn't a distinct method, but a goal supported by several other common human-centered design tools like the KJ-method, product boxing and metrics definition. We'll focus on how a strong vision at the right level of granularity can successfully guide a project without making erroneous assumptions about what users need.
 
+
+
+
 ### 2. Split the project into month-long *modules* that for each best practice.
 We'll dedicated a module of the project to each best practice and spend about a month per module. Each module will include.
 
 #### Learning
+
+<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/components.png"/>
+
 Colin will convene a webinar that includes both covers the philosophy and mechanics of each best practice. Each webinar will be 2-3 hours and include project-specific exercises, opportunities for discussion, etc.
 
 #### Applying
@@ -47,6 +55,8 @@ Once or twice during each module, Colin will meet with each participant to check
 
 #### Reflection
 At the end of each module, the group will meet to conduct a "retro" on what people learned, what was hard and what we could improve in the design of future modules.
+
+
 
 ### 4. Start the transformation with "discovery," or module 0, that determines module sequence.
 Before we begin the modules, I'd like to do a mini "discovery" exercise. The focus of this discovery isn't a product, but the group itself. What's motivating them? What's challenging to them? How can this process work for them?
@@ -75,9 +85,4 @@ At the end of the modules, we'll convene another in-person session to create nex
 
 ## Rough schedule
 
-- September: Module 0 - Discovery
-- October: Module 1
-- September: Module 2
-- November: Module 3
-- December: Module 4
-- January: Roadmap development
+<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/timeline.png"/>
