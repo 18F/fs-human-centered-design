@@ -18,10 +18,12 @@ As we approach this project together, we value:
 
 ## Approach
 
-<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/modules.png"/>
 
 ### 1. Focus on learning and practicing four key best practices
 We'll focus on adopting four particular practices of human centered design.
+
+<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/modules.png"/>
+
 
 #### A. Before product development begins, the team conducts *contextual inquiry* into the needs of the people who will use the system.
 Contextual inquiry is a combination of interviews and observation. We'll focus on using it to shape the initial stages of a product's life cycle.
