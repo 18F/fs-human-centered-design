@@ -41,9 +41,10 @@ Vision-setting isn't a distinct method, but a goal supported by several other co
 ### 2. Split the project into month-long *modules* that for each best practice.
 We'll dedicated a module of the project to each best practice and spend about a month per module. Each module will include.
 
-#### Learning
-
 <img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/components.png"/>
+
+
+#### Learning
 
 Colin will convene a webinar that includes both covers the philosophy and mechanics of each best practice. Each webinar will be 2-3 hours and include project-specific exercises, opportunities for discussion, etc.
 
