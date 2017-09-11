@@ -17,6 +17,8 @@ Agile, by itself, isn't human-centered. It's a methodology for building iterativ
 - **Our practice:** We believe stories aren't complete until we see users (not experts or developers), using that piece of the software. We think usability testing each story helps us a) catch bugs that only exist in the user's environments, b) drive us to design something that makes sense to users, not just us. We consider stories complete if users complete the task at all -- we articulate new stories for potential improvements the usability testing demonstrates.
 - **How 18F supports POs:** We make sure usability testing meets a set of minimum standards. We also coach vendors on how to conduct testing and report its results to the product owner.
 
-## 4. We make controversial design decisions based on research. If research isn't helpful, we revert to standard best practice. If neither is available, the product owner makes the ultimate decision.
+## 4. We make controversial design decisions based on research.
+If research isn't helpful, we revert to standard best practice. If neither is available, the product owner makes the ultimate decision.
 - **Traditional agile practice:** The PO has the ultimate say over how stories are implemented. When there's disagreement or questions, they make design decisions.
 - **Our practice:** Our design lead advises both our vendors and product owners on design decisions. If a decision is controversial (disagreement amongst the team, or between the team and stakeholders), we conduct research to help arbitrate it. If research is inconclusive or impossible, we fall back on the "industry best practice" or how everyone else does it. If there's no good research or best practice, the product owner will make a decision.
+- **How 18F supports POs:** Our design lead offers advice on small design issues, but escalates larger ones to the PO, usually with a suggested solution. 
