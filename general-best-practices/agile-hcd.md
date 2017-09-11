@@ -22,3 +22,7 @@ If research isn't helpful, we revert to standard best practice. If neither is av
 - **Traditional agile practice:** The PO has the ultimate say over how stories are implemented. When there's disagreement or questions, they make design decisions.
 - **Our practice:** Our design lead advises both our vendors and product owners on design decisions. If a decision is controversial (disagreement amongst the team, or between the team and stakeholders), we conduct research to help arbitrate it. If research is inconclusive or impossible, we fall back on the "industry best practice" or how everyone else does it. If there's no good research or best practice, the product owner will make a decision.
 - **How 18F supports POs:** Our design lead offers advice on small design issues, but escalates larger ones to the PO, usually with a suggested solution.
+
+## 4. Additional resources
+- [18F Method Cards](https://methods.18f.gov/validate/usability-testing/#usability-testing)
+- [What a usability test looks like (video) ](https://www.youtube.com/watch?v=QckIzHC99Xc&feature=player_embedded)
