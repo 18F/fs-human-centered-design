@@ -86,6 +86,3 @@ We gather at a Forest Service location for a two day "intensive" focusing on:
 ### 5. Conclude with an in-person retreat focused on developing a roadmap for human-centered design within the Forest Service.
 At the end of the modules, we'll convene another in-person session to create next steps for NRM's journey to human-centered design.
 
-## Rough schedule
-
-<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/timeline.png"/>
