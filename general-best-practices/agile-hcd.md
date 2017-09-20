@@ -4,7 +4,7 @@ Agile, by itself, isn't human-centered. It's a methodology for building iterativ
 
 ## 1. Product owners prioritize stories based on research, not their gut.
 - **Traditional agile practice:** POs use their own experience to decide what stories best meet business and user needs.
-- **Our practice:** We believe product owners should make decisions based on synthesized research patterns seen across interviews, [usability tests](https://github.com/18F/fs-human-centered-design/blob/master/general-best-practices/usability-testing.md)). about the people who use the product. Although POs know a lot, we don't assume POs know everything about what everyone needs, or what needs hold true across different contexts.
+- **Our practice:** We believe product owners should make decisions based on synthesized research patterns seen across interviews, [usability tests](https://github.com/18F/fs-human-centered-design/blob/master/general-best-practices/usability-testing.md). about the people who use the product. Although POs know a lot, we don't assume POs know everything about what everyone needs, or what needs hold true across different contexts.
 - **How 18F supports POs:** We make sure the PO has understandable research to drive their decisions. Sometimes, we conduct the research. More often, we make sure our vendor teams' researcher is conducting the right research and presenting actionable results.
 
 ## 2. New stories come from research.
@@ -12,7 +12,7 @@ Agile, by itself, isn't human-centered. It's a methodology for building iterativ
 - **Our practice:** We believe new stories should largely come from research: either ongoing usability testing, systematic interviews or other design research methods. (Sometimes new stories come from urgent agency needs or other extraordinary circumstances.) We believe new stories should come from research so the team focuses on features that serve the largest number of people.
 - **How 18F supports POs:** We make sure product owners have a continuous stream of research results and new story suggestions. We also coach product owners on using research to validate their ideas  before adding them to the backlog.
 
-## 3. Before stories are complete, they're [usability tested](https://github.com/18F/fs-human-centered-design/blob/master/general-best-practices/usability-testing.md)).
+## 3. Before stories are complete, they're [usability tested](https://github.com/18F/fs-human-centered-design/blob/master/general-best-practices/usability-testing.md).
 - **Traditional agile practice:** Stories are marked completed after review by the PO and, sometimes, "user acceptance testing."
 - **Our practice:** We believe stories aren't complete until we see end-users (not experts or developers), using the piece of software developed to meet the story. We think usability testing each story helps us a) catch bugs that only exist in the user's environments, b) validate that we have met the users' need. We consider stories complete if users complete the task. We will write new stories for potential improvements when the usability testing suggests their may be an additional feature that will add additional value.
 - **How 18F supports POs:** We make sure usability testing meets a set of minimum standards. We also coach vendors on how to conduct testing and report its results to the product owner.
