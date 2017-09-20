@@ -14,13 +14,13 @@ Agile, by itself, isn't human-centered. It's a methodology for building iterativ
 
 ## 3. Before stories are complete, they're [usability tested](https://github.com/18F/fs-human-centered-design/blob/master/general-best-practices/usability-testing.md)).
 - **Traditional agile practice:** Stories are marked completed after review by the PO and, sometimes, "user acceptance testing."
-- **Our practice:** We believe stories aren't complete until we see users (not experts or developers), using that piece of the software. We think usability testing each story helps us a) catch bugs that only exist in the user's environments, b) drive us to design something that makes sense to users, not just us. We consider stories complete if users complete the task at all -- we articulate new stories for potential improvements the usability testing demonstrates.
+- **Our practice:** We believe stories aren't complete until we see end-users (not experts or developers), using the piece of software developed to meet the story. We think usability testing each story helps us a) catch bugs that only exist in the user's environments, b) validate that we have met the users' need. We consider stories complete if users complete the task. We will write new stories for potential improvements when the usability testing suggests their may be an additional feature that will add additional value.
 - **How 18F supports POs:** We make sure usability testing meets a set of minimum standards. We also coach vendors on how to conduct testing and report its results to the product owner.
 
 ## 4. We make controversial design decisions based on research.
 If research isn't helpful, we revert to standard best practice. If neither is available, the product owner makes the ultimate decision.
 - **Traditional agile practice:** The PO has the ultimate say over how stories are implemented. When there's disagreement or questions, they make design decisions.
-- **Our practice:** Our design lead advises both our vendors and product owners on design decisions. If a decision is controversial (disagreement amongst the team, or between the team and stakeholders), we conduct research to help arbitrate it. If research is inconclusive or impossible, we fall back on the "industry best practice" or how everyone else does it. If there's no good research or best practice, the product owner will make a decision.
+- **Our practice:** a) If a design decision is controversial because of a disagreement amongst the team, or between the team and stakeholders, we conduct research to help arbitrate it. b) If research is inconclusive or impossible, we will implement the "industry best practice" or _how everyone else does it._ c) If there's no good research or best practice, it will be up to the product owner to decide.
 - **How 18F supports POs:** Our design lead offers advice on small design issues, but escalates larger ones to the PO, usually with a suggested solution.
 
 ## 4. Additional resources
