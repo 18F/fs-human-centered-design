@@ -26,8 +26,8 @@ This period includes three pieces:
 #### NRM leadership presentation (Done)
 Colin briefs the NRM leadership on the tenants of human-centered design, and what the jumpstart team members require.
 
-[View the presentation in PDF.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered-design.pdf)
-[View the presentation in PowerPoint.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered-design.pptx)
+[View the presentation in PDF.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-jumpstart/Human-centered-design.pdf)
+[View the presentation in PowerPoint.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-jumpstart/Human-centered-design.pptx)
 
 
 #### One-on-ones with each participant
@@ -49,7 +49,7 @@ We gather at a Forest Service location for a two day "intensive" focusing on:
 
 ### 2. Split the project into approximately month-long *modules* for four best practices.
 
-<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/modules.png"/>
+<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-jumpstart/modules.png"/>
 
 We'll focus a module on each of the following best practices:
 
@@ -69,7 +69,7 @@ Vision-setting isn't a distinct method, but a goal supported by several other co
 
 We'll dedicate a module of the project to each best practice and spend about a month per module. Each module will include:
 
-<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/components.png"/>
+<img src="https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-jumpstart/components.png"/>
 
 ##### Learning
 
