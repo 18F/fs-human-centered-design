@@ -21,7 +21,10 @@ As we approach this project together, we value:
 ### 1. Start the transformation with "discovery," or module 0, that determines module sequence.
 Before we begin the modules, I'd like to do a mini "discovery" exercise. The focus of this discovery isn't a product, but the group itself. What's motivating them? What's challenging to them? How can human-centered design work for them?
 
-I propose two components to this discovery period:
+This period includes three pieces:
+
+#### NRM leadership presentation
+Colin briefs the NRM leadership on the tenants of human-centered design, and what the jumpstart team members require. 
 
 #### One-on-ones with each participant
 Colin conducts brief phone interviews with each team member focusing on their current role, their projects, their personal hopes and fears for the jumpstart effort.
