@@ -18,12 +18,12 @@ As we approach this project together, we value:
 
 ## Approach
 
-### 1. Start the transformation with "discovery," or module 0, that determines module sequence.
+### 1. Start the transformation with "discovery," or module 0, that determines module sequence. (We are here!)
 Before we begin the modules, I'd like to do a mini "discovery" exercise. The focus of this discovery isn't a product, but the group itself. What's motivating them? What's challenging to them? How can human-centered design work for them?
 
 This period includes three pieces:
 
-#### NRM leadership presentation
+#### NRM leadership presentation (Done)
 Colin briefs the NRM leadership on the tenants of human-centered design, and what the jumpstart team members require.
 
 [View the presentation in PDF.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered-design.pdf)
