@@ -26,8 +26,8 @@ This period includes three pieces:
 #### NRM leadership presentation
 Colin briefs the NRM leadership on the tenants of human-centered design, and what the jumpstart team members require.
 
-(View the presentation in PDF.)[https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered design.pdf]
-(View the presentation in PowerPoint.)[https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered design.pptx]
+[View the presentation in PDF.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered design.pdf)
+[View the presentation in PowerPoint.](https://github.com/18F/fs-human-centered-design/raw/master/nrm-hcd-transformation/Human-centered design.pptx)
 
 
 #### One-on-ones with each participant
