@@ -3,34 +3,34 @@
 ## Project meetings
 
 ### Weekly check-in
-I'll set up a weekly check-in meeting between Aaron, Brian, and myself. (Oleysa from 18F will also be invited.) The standing agenda of these meetings:
+We have a weekly check-in meeting with Aaron, Brian, Melissa, and Mark. (Oleysa from 18F is also invited.) The standing agenda for these meetings:
  - What happened last week
  - Plans for the coming week
  - Blockers
 
- (I'll also have separate periodic check ins and planning meetings with Forest Service staff involved in our various related projects, but we'll have at least this weekly meeting with the three of us.)
+ (We also have separate periodic check ins and planning meetings with Forest Service staff involved in our various related projects.)
 
 ### Monthly retros
-We'll also have monthly retrospectives with Aaron, Brian and myself. (Oleysa from 18F will also be invited.) Retros will cover:
+We have monthly retrospectives with the 18F and FS leads. Retros cover:
 - What's working well
 - What could be better
 - What actions will we take to improve
 
- (I'll also have separate retros with Forest Service staff involved in our various related projects, but we'll have at least this monthly retro with the three of us.)
+ (We also have separate retros with Forest Service staff involved in our various related projects.)
 
 ## Tools
 
-### Documents and tasks in Github
-We'll host project documents and the task board in a (Github repository)[https://github.com/18F/fs-human-centered-design] for this project. I'll also keep a (task board)[https://github.com/18F/fs-human-centered-design/projects/1], updated with what I'm working on, there.
+### Documents and tasks
+We'll host project documents in a (Github repository)[https://github.com/18F/fs-human-centered-design] for this project. For visibility to the broader ePermits team, project tasks are tracked in the ePermits Trello (task board)[https://trello.com/b/ONDcGQnk/forest-service-e-permitting-project]. Tasks for this project are marked with a blue "nrm-hcd" label. 
 
 Github is the one place that both Forest Service and GSA staff can access without much rigamarole.
 
-### Chat in Slack and Skype
-We have a channel in the GSA TTS Slack for this project, #fs-hcd. Aaron and Oleysa are there already. I will invite other Forest Service folks involved in these efforts to join us there, as well.
-
-As the project gets underway, I will also make myself available on Forest Service Skype.
+### Chat in Slack 
+We have two channels in the GSA TTS Slack for this project, #fs-hcd, and #fs-hcd-partners:
+ - **#fs-hcd** is for 18F staff and FS leadership to discuss agreements and program-level questions.
+ - **fs-hcd-partners** includes FS staff who are participating as cadre members.
 
 ## Other rituals
 
 ### "Weekly ship"
-I will prepare a weekly update on this project's progress for Aaron and Brian. I'll also work with Oleysa to include project financial status in each one. I'll send a shorter version to other Forest Service staff involved in our efforts.
+We prepare a weekly update on this project's progress that we email to Aaron and Brian each Friday. 
